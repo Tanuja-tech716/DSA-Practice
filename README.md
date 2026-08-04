@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [3731-find-missing-elements](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
