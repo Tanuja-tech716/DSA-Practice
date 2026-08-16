@@ -4,7 +4,7 @@ public:
         if(fruits.size()==1)
         return 1;
         unordered_map<int,int> mp;
-        int  sum=0,maxf=0, j=0;
+        int maxf=0, j=0;
         for(int i=0;i<fruits.size();i++){
             mp[fruits[i]]++;
             while(mp.size()>2){
@@ -13,11 +13,8 @@ public:
                 mp.erase(fruits[j]);
                 j++;
             }
-            sum=0;
-            for(auto p:mp)
-            sum+=p.second;
-            if(sum>maxf)
-            maxf=sum;
+            if((i-j+1)>maxf)
+            maxf=(i-j+1);
         }
         return maxf;
     }
