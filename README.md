@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
