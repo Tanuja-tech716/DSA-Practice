@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
