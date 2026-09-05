@@ -13,7 +13,7 @@ public:
             p++;
         }
         if(not_found.size()<k){
-            for(int i=0;i<k;i++){
+            for(int i=not_found.size();i<k;i++){
                 not_found.push_back(p++);
             }
         }
