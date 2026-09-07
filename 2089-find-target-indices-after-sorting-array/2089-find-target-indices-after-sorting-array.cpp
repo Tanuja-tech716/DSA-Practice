@@ -10,7 +10,7 @@ public:
             equals++;
         }
         for(int i=0;i<equals;i++)
-        targetindices.push_back(starting++);
+        targetindices.push_back(starting+i);
         return targetindices;
     }
 };
