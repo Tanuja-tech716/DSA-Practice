@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Sorting
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3731-find-missing-elements](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Binary Search
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2540-minimum-common-value](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Math
 |  |
