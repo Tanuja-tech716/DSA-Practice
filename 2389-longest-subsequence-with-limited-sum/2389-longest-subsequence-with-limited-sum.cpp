@@ -9,12 +9,14 @@ public:
         prefix[i]=prefix[i-1]+nums[i];
        }
        for(int i=0;i<queries.size();i++){
-        int size=0;
-        for(int j=0;j<prefix.size();j++){
-            if(prefix[j]>queries[i])
-            break;
+        int size=0,l=0, r=prefix.size()-1;
+        while(l<=r){
+            int mid=l+(r-l)/2;
+            if(prefix[mid]>queries[i])
+            r=mid-1;
             else{
-                size=(j+1);
+                size=mid+1;
+                l=mid+1;
             }
         }
         answer.push_back(size);
