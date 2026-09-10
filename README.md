@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0155-min-stack) |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
@@ -172,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
