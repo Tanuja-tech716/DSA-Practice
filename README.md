@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0704-binary-search) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
