@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Interactive
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
