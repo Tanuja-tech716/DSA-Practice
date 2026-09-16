@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -170,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
