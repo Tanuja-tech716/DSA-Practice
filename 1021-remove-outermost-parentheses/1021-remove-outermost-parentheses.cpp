@@ -2,7 +2,6 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         string ans,temp;
-        temp=s;
         stack<char> st;
         int i=0, j=0;
         while(i<s.length()&&j<s.length()){
