@@ -2,15 +2,15 @@ class Solution {
 public:
     string removeOuterParentheses(string s) {
         string ans,temp;
-        stack<char> st;
+        int level=0;
         int i=0, j=0;
         while(i<s.length()&&j<s.length()){
-            if(s[j]=='('||s[j]=='['||s[j]=='{')
-            st.push(s[j]);
+            if(s[j]=='(')
+            level++;
             else{
-                st.pop();
+                level--;
             }
-            if(st.empty()){
+            if(level==0){
                 for(int k=i+1;k<=j-1;k++)
                 ans.push_back(s[k]);
                 j++;
@@ -21,6 +21,5 @@ public:
             }
         }
         return ans;
-
     }
 };
