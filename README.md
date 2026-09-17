@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0441-arranging-coins) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Interactive
