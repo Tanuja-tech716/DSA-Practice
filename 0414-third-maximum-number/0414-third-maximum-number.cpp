@@ -1,7 +1,7 @@
 class Solution {
 public:
     int thirdMax(vector<int>& nums) {
-        long long l=LLONG_MIN, l2=LLONG_MIN, l3=LLONG_MIN;
+        long  l=LONG_MIN, l2=LONG_MIN, l3=LONG_MIN;
         for(int x:nums){
             if(x>l){
                 l3=l2;
