@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0888-fair-candy-swap](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
