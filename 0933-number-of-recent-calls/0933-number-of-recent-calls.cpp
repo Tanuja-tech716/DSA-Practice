@@ -6,9 +6,9 @@ public:
     }
     
     int ping(int t) {
-        int lb=t-3000, c=0;
+        int c=0;
         s1.push(t);
-        while(!s1.empty()&&(s1.top()>=lb)){
+        while(!s1.empty()&&(s1.top()>=(t-3000))){
            c++;
            s2.push(s1.top());
            s1.pop();
