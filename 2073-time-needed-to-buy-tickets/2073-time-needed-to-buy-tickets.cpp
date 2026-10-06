@@ -8,12 +8,11 @@ public:
        while(tickets[k]>0){
         tickets[q.front()]--;
         time++;
-        if(tickets[q.front()]==0){
-             int p=q.front();
-             if(p==k)
-             break;
-             else
-             q.pop();
+        if(tickets[q.front()]==0&&q.front()==k){
+            break;
+        }
+        else if(tickets[q.front()]==0){
+            q.pop();
         }
         else{
             int p=q.front();
