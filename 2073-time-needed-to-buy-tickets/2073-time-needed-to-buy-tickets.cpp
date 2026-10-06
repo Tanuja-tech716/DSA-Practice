@@ -5,17 +5,17 @@ public:
        queue<int> q;
        for(int i=0;i<tickets.size();i++)
        q.push(i);
-       while(tickets[k]>0){
+       while(true){
         tickets[q.front()]--;
         time++;
-        if(tickets[q.front()]==0&&q.front()==k){
+        int p=q.front();
+        if(tickets[q.front()]==0&&p==k){
             break;
         }
         else if(tickets[q.front()]==0){
             q.pop();
         }
         else{
-            int p=q.front();
             q.pop();
             q.push(p);
         }
