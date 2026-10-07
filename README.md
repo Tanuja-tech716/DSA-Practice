@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0441-arranging-coins](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0441-arranging-coins) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Queue
@@ -231,5 +234,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/2073-time-needed-to-buy-tickets) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tanuja-tech716/DSA-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
